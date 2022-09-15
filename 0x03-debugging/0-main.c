@@ -8,10 +8,9 @@
 int main(void)
 {
         int i;
-        i=98
-      if (i != 0)
-          (positive_or_negative(i))
-      else (i == 0)
-           printf("0 is zero"\n)
-      return (0);
+
+        i = 0;
+        positive_or_negative(i);
+
+        return (0);
 }
