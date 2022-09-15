@@ -8,12 +8,9 @@
 int main(void)
 {
         int i;
-      if (i !=0)
-      {
-        i = 98;
-        positive_or_negative(i);
-      }
-  else
-  { putchar(%d 0 is zero \n)
-        return (0);
+      if (i != 0)
+          (positive_or_negative(i);)
+      else (i == 0)
+           printf("0 is zero"\n)
+      return (0);
 }
